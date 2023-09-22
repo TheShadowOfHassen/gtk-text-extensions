@@ -1,4 +1,4 @@
-# gtk-textview-extensions
+# gtk-text-extensions
  Extensions for Gtk textviews. In the MIT license. You can use this code in whatever you want, but if you improve it please pass the improvements on to this
 
 This is very much a work in progress.
